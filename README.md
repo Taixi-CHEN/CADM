@@ -1,11 +1,11 @@
 # CADM
-All the functions are introduced below:
+## All the functions are introduced below:
 
-## Pre-need: A set of functions for analyze the attribute order table.
+Pre-need: A set of functions for analyze the attribute order table.
 
-## CADM: The whole CADM distance metric with K-modes algorithm
+CADM: The whole CADM distance metric with K-modes algorithm
 
-## NMI, CA, ARI: Three functions for CA indicator to evaluate the cluster 
+NMI, CA, ARI: Three functions for CA indicator to evaluate the cluster 
  
 ## How to execute the experiment are introduced below:
 1. Import the dataset and its labels in the example running cell.
