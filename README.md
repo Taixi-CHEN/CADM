@@ -5,7 +5,7 @@ Pre-need: A set of functions to analyze the attribute order table.
 
 CADM: The whole CADM distance metric with K-modes algorithm.
 
-NMI, CA, ARI: Three functions for three indicators to evaluate the cluster results.
+NMI, CA, ARI: Three functions for three indicators to evaluate the clustering results.
  
 ## How to execute the experiment are introduced below:
 1. Import the dataset and its labels in the example running cell.
