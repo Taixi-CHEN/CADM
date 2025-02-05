@@ -1,15 +1,15 @@
 # CADM
 ## All the functions are introduced below:
 
-Pre-need: A set of functions for analyze the attribute order table.
+Pre-need: A set of functions to analyze the attribute order table.
 
 CADM: The whole CADM distance metric with K-modes algorithm
 
-NMI, CA, ARI: Three functions for CA indicator to evaluate the cluster 
+NMI, CA, ARI: Three functions for three indicators to evaluate the cluster 
  
 ## How to execute the experiment are introduced below:
 1. Import the dataset and its labels in the example running cell.
-2. Input the location number of Input the number of ordinal attributes of the target data set (e.g., od=2 for Hayes Royth data set, od=0 for ordinal data, od = attribute_numbrer +1 for all nominal data). 
+2. Input the start location of the ordinal attributes of the target data set (e.g., od=2 for Hayes Royth data set, od=0 for ordinal data, od = attribute_number +1 for all nominal data). 
 3. Execute the cell .
 4. Experimental results will be displayed automatically.
 
