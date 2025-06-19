@@ -1,7 +1,7 @@
 # CADM
 ## All the functions are introduced below:
 
-Pre-need: A set of functions to analyze the attribute order table.
+Preparation: A set of functions to analyze the attribute order table.
 
 CADM: CADM distance metric with K-modes algorithm for categorical data clustering.
 
