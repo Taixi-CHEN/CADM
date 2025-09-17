@@ -1,4 +1,4 @@
-# CADM
+# CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering
 ## All the functions are introduced below:
 
 Preparation: A set of functions to analyze the attribute order table.
