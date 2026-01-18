@@ -8,7 +8,7 @@ You can find our paper in [Arxiv](https://arxiv.org/abs/2511.05826).
 ---
 
 ## CADM algorithm
-![image](https://github.com/Taixi-CHEN/CADM/blob/main/distance_metric_cadm.png)
+<img src="https://github.com/Taixi-CHEN/CADM/blob/main/distance_metric_cadm.png" width="300">
 ---
 
 ## All the functions are introduced below:
