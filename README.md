@@ -3,6 +3,14 @@ You can find our paper in [Arxiv](https://arxiv.org/abs/2511.05826).
 
 ---
 
+## Motivations
+
+---
+
+## CADM algorithm
+![image](https://github.com/Taixi-CHEN/CADM/blob/main/distance_metric_cadm.png)
+---
+
 ## All the functions are introduced below:
 
 Preparation: A set of functions to analyze the attribute order table.
