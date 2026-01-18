@@ -1,5 +1,5 @@
 # CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering
-You can find our paper in [arxiv](https://arxiv.org/abs/2511.05826).
+You can find our paper in [Arxiv](https://arxiv.org/abs/2511.05826).
 
 ---
 
