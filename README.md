@@ -25,4 +25,4 @@ Please note that this paper assumes that the former part of the attributes of a 
 When using data sets not provided here, it may be necessary to pre-process the data sets to ensure that the ordinal attributes are latter than nominal attributes, and delete all null rows.
 
 ---
-## For convenience, we have provided the running cell and results of our used datasets in the notebook. You can change the algorithm only for comparisons.
+For convenience, we have provided the running cell and results of our used datasets in the notebook. You can change the algorithm only for comparisons.
