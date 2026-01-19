@@ -1,9 +1,9 @@
 # CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering
 You can find our paper in [Arxiv](https://arxiv.org/abs/2511.05826).
 
-<img src="https://github.com/Taixi-CHEN/CADM/blob/main/distance_metric_cadm.png" width="500">
+<img src="https://github.com/Taixi-CHEN/CADM/blob/main/distance_metric_cadm.png" width="600">
 
-We propose the first cluster-customized distance measurement for categorical data clustering, which could extract more fine-grained information. 
+#### We propose the first cluster-customized distance measurement for categorical data clustering, which could extract more fine-grained information. 
 
 ---
 
