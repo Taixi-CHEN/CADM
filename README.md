@@ -7,6 +7,10 @@ We propose the first cluster-customized distance measurement for categorical dat
 
 ---
 
+For convenience, we have provided the running cell and results of the datasets we used in the notebook. You can change the algorithm only for comparisons.
+
+---
+
 ## All the functions are introduced below:
 
 Preparation: A set of functions to analyze the attribute order table.
@@ -27,6 +31,3 @@ CADM-m: CADM distance metric with K-modes algorithm for mixed data clustering.
 Example running cells (including mixed, ordinal, and nominal data sets) have been demonstrated under a set of functions.    
 Please note that this paper assumes that the former part of the attributes of a data set are numerical attributes and the latter part are ordinal attributes and nominal attributes. 
 When using data sets not provided here, it may be necessary to pre-process the data sets to ensure that the ordinal attributes are latter than nominal attributes, and delete all null rows.
-
----
-For convenience, we have provided the running cell and results of our used datasets in the notebook. You can change the algorithm only for comparisons.
